@@ -1,6 +1,6 @@
 ## Hello World 👋🏽
 
-### Meu nome é Alice, futura desenvolvedora de software full stack!
+### Meu nome é Alice, futura desenvolvedora full stack!
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - ☕Atualmente programando em Java.
