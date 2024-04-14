@@ -7,9 +7,11 @@
 - 💻 Systems analysis and development student.
 - ☕ Currently studying and programming in Java.
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=pie&theme=merko)](https://github.com/alicevn/github-readme-stats)
-
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=compact&langs_count=16&theme=merko-gatsby"/>
+</div>
 ## Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
