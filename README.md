@@ -10,8 +10,9 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=compact&langs_count=16&theme=merko"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=compact&langs_count=16&theme=merko"/>
 </div>
+
 ## Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
