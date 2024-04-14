@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=3CB371&center=true&vCenter=true&random=false&width=1000&lines=Hello+my+name+is+Alice+:D;I'm+19+years+old;+and+I'm+from+Brazil.)](https://git.io/typing-svg)
 
-- 💻 Systems analysis and development student.
-- ☕ Currently studying and programming in Java.
-
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
