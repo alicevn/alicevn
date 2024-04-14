@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
+
 ## Hello World 👋🏽
 
 ### Hi, my names is Alice.
@@ -9,7 +10,7 @@
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=pie&theme=merko)](https://github.com/alicevn/github-readme-stats)
 
-#### Main Stack:
+## Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
