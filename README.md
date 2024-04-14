@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
+
 ## Hello World 👋🏽
 
 ### Hi, my names is Alice.
