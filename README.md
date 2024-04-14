@@ -1,9 +1,9 @@
 ## Hello World 👋🏽
 
-### Olá, meu nome é Alice.
+### Hi, my names is Alice.
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- ☕Atualmente programando em Java.
+- 💻 Systems analysis and development student.
+- ☕ Currently studying and programming in Java.
 
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko)
 
