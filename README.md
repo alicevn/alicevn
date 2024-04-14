@@ -7,10 +7,6 @@
 - 💻 Systems analysis and development student.
 - ☕ Currently studying and programming in Java.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko)" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-alicevn.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=merko" />
- </div>
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=pie&theme=merko)](https://github.com/alicevn/github-readme-stats)
 
