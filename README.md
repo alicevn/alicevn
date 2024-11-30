@@ -1,21 +1,32 @@
-<h1 align="center" style="color: green;">👋 Olá, eu sou Alice!</h1>
+<div align="center" style="border: 2px solid green; padding: 20px; border-radius: 10px;">
 
-<p align="center">
-  <em>Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.</em>
+![Welcome Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+<h1 style="color: green;">🌟 Bem-vinda ao meu Perfil 🌟</h1>
+
+<p>
+  <em>
+    Desenvolvedora apaixonada por tecnologia, aprendizado contínuo e inovação.  
+  </em>
 </p>
 
----
-
-### 🌟 Sobre mim
-
-- 🧑‍💻 **Nome:** Alice Nascimento  
-- 🌎 **País:** Brasil  
-- 🎂 **Idade:** 19 anos  
-- 💡 Sempre explorando novas tecnologias e ferramentas para crescer como desenvolvedora.
+</div>
 
 ---
 
-### 🚀 Tecnologias que estudo e utilizo:
+<div align="center" style="border: 1px solid #90EE90; padding: 10px; border-radius: 8px; background-color: #f0fff0;">
+<h2 style="color: green;">👩‍💻 Sobre Mim</h2>
+
+- **Nome:** Alice Nascimento  
+- **Idade:** 19 anos  
+- **Localização:** Brasil  
+- 💡 Sempre buscando criar soluções práticas e eficientes.
+</div>
+
+---
+
+<div align="center" style="background-color: #f0fff0; padding: 10px; border: 1px solid #90EE90; border-radius: 8px;">
+<h2 style="color: green;">🚀 Tecnologias e Ferramentas</h2>
 
 #### Linguagens de Programação:
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,14 +45,23 @@
 #### Ferramentas Adicionais:
 ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 
----
-
-### 📬 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-nascimento-3821bb2b7/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alicevanscimento02@gmail.com)
+</div>
 
 ---
 
-<p align="center" style="color: green;">
-  💚 *Obrigado por visitar meu perfil!* 💚
+<div align="center" style="border: 1px solid green; padding: 10px; border-radius: 8px;">
+<h2 style="color: green;">📬 Contatos</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#coloque-seu-link-aqui)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#alicevnascimento02@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<p style="color: green;">
+  💚 Obrigado por visitar meu perfil! 💚
 </p>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Gif animado de codificação" width="400"/>
+</div>
