@@ -2,7 +2,7 @@
 
 ![Welcome Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<h1 style="color: green;">🌟 Bem-vinda ao meu Perfil 🌟</h1>
+<h1 style="color: green;">🌟 Bem-vindo ao meu Perfil 🌟</h1>
 
 <p>
   <em>
@@ -17,10 +17,10 @@
 <div align="center" style="border: 1px solid #90EE90; padding: 10px; border-radius: 8px; background-color: #f0fff0;">
 <h2 style="color: green;">👩‍💻 Sobre Mim</h2>
 
-- **Nome:** Alice Nascimento  
-- **Idade:** 19 anos  
-- **Localização:** Brasil  
-- 💡 Sempre buscando criar soluções práticas e eficientes.
+ **Nome:** Alice Nascimento  
+ **Idade:** 19 anos  
+ **Localização:** Brasil  
+ 💡 Sempre buscando criar soluções práticas e eficientes.
 </div>
 
 ---
