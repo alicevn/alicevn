@@ -1,4 +1,8 @@
-<h1 align="center">👋 Olá, eu sou Alice!</h1>
+<h1 align="center">👋 Olá, eu sou Alice!</h1> <div align="right">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdlcmkxbDZ3cmk2bDZqYm9ucnR0eHVlZTY3b2J5OG1qODI5MjkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tRoH9EYLs3lok/giphy.gif"  />
+</div>
+
+###
 
 <p align="center">
   <em>Desenvolvedora de software sempre em busca de novos conhecimentos e aprender mais sobre novas tecnologias.</em>
