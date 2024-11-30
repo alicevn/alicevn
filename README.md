@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Alice!</h1>
 
 <p align="center">
-  <em>Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.</em>
+  <em>Desenvolvedora de software sempre em busca de novos conhecimentos e em aprender novas tecnologias.</em>
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 - 🧑‍💻 **Nome:** Alice Nascimento  
 - 🌎 **País:** Brasil  
-- 🎂 **Idade:** 19 anos  
-- 💡 Sempre explorando novas tecnologias e ferramentas para crescer como desenvolvedora.
+- 🎂 **Idade:** 19 anos 
 
 ---
 
@@ -41,10 +40,6 @@
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#coloque-seu-email-aqui)
 
 ---
-
-<p align="center">
-  💚 *Obrigado por visitar meu perfil!* 💚
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Gatinho brincando" width="300"/>
