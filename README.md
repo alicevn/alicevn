@@ -10,9 +10,9 @@
 
 - 🧑‍💻 **Nome:** Alice Nascimento  
 - 🌎 **País:** Brasil  
-- 🎂 **Idade:** 19 anos 
+- 🎂 **Idade:** 19 anos
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=radical)
 
 ### 🚀 Tecnologias que estudo e utilizo:
 
