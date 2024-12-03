@@ -13,7 +13,7 @@
 - 🎂 **Idade:** 19 anos
 
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevn&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Tecnologias que estudo e utilizo:
 
