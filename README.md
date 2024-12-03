@@ -4,7 +4,7 @@
   <em>Desenvolvedora de software sempre em busca de novos conhecimentos e em aprender novas tecnologias.</em>
 </p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🌟 Sobre mim
 
