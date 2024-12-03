@@ -33,13 +33,11 @@
 #### Ferramentas Adicionais:
 ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 
----
-
 ### 📬 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#coloque-seu-link-aqui)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#coloque-seu-email-aqui)
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Gatinho brincando" width="300"/>
