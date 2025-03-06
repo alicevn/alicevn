@@ -30,4 +30,4 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%">
