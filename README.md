@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-# 👋 Olá, eu sou a Alice!
+## 👋 Olá, eu sou a Alice!
 
 ### 💻 Tecnologias que estudo
 
