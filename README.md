@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 👋 Olá, eu sou a Alice!
+# 👋 Olá, eu sou a Alice!
 
 ### 💻 Tecnologias que estudo
 
@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alicevn)
 
 <p align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50%">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30%">
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
