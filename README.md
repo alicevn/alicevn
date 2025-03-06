@@ -28,6 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-nascimento-3821bb2b7/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alicevn)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJiM2FjN2FhNzEyZDBhODRmZGI4NzljNzJjMzM5OGRhNjcwYmE1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
